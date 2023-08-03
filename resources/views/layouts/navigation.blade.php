@@ -13,9 +13,9 @@
       border-radius: 10px;
     }
     .sub_container h2{
-      font-size: 2rem;
+      font-size: 1.5rem;
       color: brown;
-      padding: 50px 50px 0px 50px;
+      padding: 20px 0px 20px 50px;
     }
     .sub_container p{
       padding: 0px 20px 0px 20px;
@@ -23,7 +23,7 @@
       color:black;
     }
     .sub_container button{
-      background-color: green;
+      background-color: chartreuse;
       height: 30px;
       border-radius: 6px;
       color: black;
@@ -430,14 +430,18 @@
     </button>
 </header>
 
-<div class="container" style="height: 320px; width: 100%; padding-top: 20px; ">
+<div class="container" style="height: 320px; width: 100%; padding-top: 20px; padding: 0px 50px 0px 50px; ">
             
     <div class="sub_contain" style="display: flex; padding: 15px;">
         <div class="sub_container">
             <h2>Welcome guys to my couple shop</h2>
-            <p>Sale 20% off On Everything</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit in magna vitae aliquam. Nunc ut euismod nisi. Donec mollis arcu ac eros rutrum consequat. Duis non egestas lectus. Etiam interdum sapien augue, ac vehicula mi porttitor rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean scelerisque mauris nulla, quis efficitur eros commodo sit amet. Phasellus vehicula feugiat elit.</p>
-            <button>Go to website</button>
+            <h3 style="padding: 0px 40px 0px 40px; color:brown;">
+            Sale 20% off On Everything Online For Exatra Cash</h3>
+            <p>
+            Looking to sell clothes online for a bit of extra cash? If you’re like me, you’ll have spent most of the lockdown frantically decluttering your closetIt’s probably the most popular selling site ever! Meaning you can sell clothes online quickly and get money in your pocket faster.
+            
+            </p>
+            <button style="width: 120px;">Go to website</button>
         </div>
         <!-- <div class="image">
             <img src="../img/backg.jpg" style=" width: 100%; height: 500px;">
