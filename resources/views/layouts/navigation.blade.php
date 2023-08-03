@@ -441,7 +441,7 @@
             Looking to sell clothes online for a bit of extra cash? If you’re like me, you’ll have spent most of the lockdown frantically decluttering your closetIt’s probably the most popular selling site ever! Meaning you can sell clothes online quickly and get money in your pocket faster.
             
             </p>
-            <button style="width: 120px;">Go to website</button>
+            <button style="width: 120px;">More Detail</button>
         </div>
         <!-- <div class="image">
             <img src="../img/backg.jpg" style=" width: 100%; height: 500px;">
