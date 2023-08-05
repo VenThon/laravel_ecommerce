@@ -430,10 +430,10 @@
     </button>
 </header>
 
-<div class="container" style="height: 320px; width: 100%; padding-top: 20px; padding: 0px 50px 0px 50px; ">
+<!-- <div class="container" style="height: 320px; width: 100%; padding-top: 20px; padding: 0px 50px 0px 50px; ">
             
-    <div class="sub_contain" style="display: flex; padding: 15px;">
-        <div class="sub_container">
+    <div class="sub_contain" style="display: flex; padding: 15px;"> -->
+        <!-- <div class="sub_container">
             <h2>Welcome guys to my couple shop</h2>
             <h3 style="padding: 0px 40px 0px 40px; color:brown;">
             Sale 20% off On Everything Online For Exatra Cash</h3>
@@ -442,11 +442,11 @@
             
             </p>
             <button style="width: 120px;">More Detail</button>
-        </div>
+        </div> -->
         <!-- <div class="image">
             <img src="../img/backg.jpg" style=" width: 100%; height: 500px;">
         </div> -->
-    </div>
+    <!-- </div> -->
 </div>
 </body>
 </html>
